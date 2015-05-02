@@ -1,2 +1,2 @@
 # Disaster-Relief
-Disaster Relief Game
+Disaster Relief Game for NSBE CUNY Hackathon 5/2/15.
